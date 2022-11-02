@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # Mac files
 .DS_Store
+
+# exclude the answer script
+tidyverse_wk11_answers.R
