@@ -1,5 +1,6 @@
 # Reproducible Quantitative Methods
 # University of Florida, Fall
+# University of Florida, Fall semester
 # Geraldine Klarenberg
 
 # More tidyverse practice
@@ -36,11 +37,12 @@ ggplot(data = surveys_complete, mapping = aes(x = weight, y = hindfoot_length)) 
 # Save the new dataset
 write_csv(surveys_complete, "surveys_complete.csv")
 
+
 ###### 4. Long vs wide data (Tuesday) ######
 
 
 
-
 ###### 5. Plotting (Thursday) ######
+
 
 
